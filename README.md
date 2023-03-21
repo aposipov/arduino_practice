@@ -1,6 +1,8 @@
 ## arduino_practice
 ## install IDE
 
+BOT_T="6169483507:AAGYU8mlzM5y1lFP4PCl8a7F8bL1-aWsMG8" API_T="69f3d684-9b2c-445f-9c01-d30174c0fd68" docker-compose up --build bot-tg
+
 
 ## board
 ```
